@@ -1,0 +1,21 @@
+{
+  "moveAttachmentsWithNote": true,
+  "deleteAttachmentsWithNote": true,
+  "updateLinks": true,
+  "deleteEmptyFolders": true,
+  "deleteExistFilesWhenMoveNote": true,
+  "changeNoteBacklinksAlt": true,
+  "ignoreFolders": [
+    ".git/",
+    ".obsidian/"
+  ],
+  "ignoreFiles": [
+    "consistency\\-report\\.md"
+  ],
+  "ignoreFilesRegex": [
+    {}
+  ],
+  "attachmentsSubfolder": "attachments",
+  "consistencyReportFile": "",
+  "useBuiltInObsidianLinkCaching": true
+}
